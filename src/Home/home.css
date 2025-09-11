@@ -1,0 +1,118 @@
+.banner_img{
+    background: url("../assets/Home page/banner1.jpg") no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-size: 100% ;
+
+    /* background-color: aqua; */
+
+}
+.banner_img:hover{
+    background: url("../assets/Home page/banner2.jpg") no-repeat;
+    transition: background 0.6s linear !important;
+}
+.banner_view{
+    background-color: #00000045;
+    color: #fff;
+    width: 560px;
+}
+.banner_view button{
+    display: none;
+   
+}
+.hover_banner1:hover .banner_view button{
+    display: inline;
+    background-color: black;
+    color: #fff;
+} 
+.hover_banner2:hover .banner_view button{
+    display: inline;
+    background-color: black;
+    color: #fff;
+}
+
+.banner_img:hover button{
+    background-color: #fff;
+    color: black;
+}
+.inspiring_border_span{
+    border: 1px solid black;
+    width: 100%;
+    height: 1px;
+    margin: auto;
+}
+.inspiring{
+    background-color: #FCF8F5;
+}
+.out_border{
+    width: 130%;
+}
+.blog_marging{
+    bottom: -40%;
+    width: 500px;
+    left: 15px;
+    background-color: #fff;
+}
+.marging_top_press{
+    margin-top: 10rem;
+    background-color: #fcf8f5;
+    padding: 10rem 0;
+}
+
+.slider-container {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .slider {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .slide {
+    /* flex: 0 0 25%; */
+    width: 220px;
+    margin-right: 30px;
+    box-sizing: border-box;
+  }
+  .height_slider{
+    height: 68px;
+  }
+  img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+  }
+  
+  .prev-button,
+  .next-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    cursor: pointer;
+    background: none;
+    border: none;
+    outline: none;
+  }
+  
+  .prev-button {
+    left: 10px;
+  }
+  
+  .next-button {
+    right: 10px;
+  }
+.instagram{
+    height: 100%;
+}
+.instagram_height{
+    height: 400px !important;
+}

@@ -1,0 +1,44 @@
+[
+  {   
+
+   "url":"./image/television/tv1.jpg",
+   "title":"90 Day Fiancé - Patrick and Thaís",
+   "paragraph1":"August 7, 2022",
+   "paragraph2":"Mikaella Style 2359"
+},
+
+{
+   "url":"./image/television/tv2.jpg",
+   "title":"CT Live! – Wedding Styles for 2022",
+   "paragraph":"Paloma Blanca Style 4961"
+ },
+
+ {
+   "url":"./image/television/tv3.jpg",
+   "title":"The Marilyn Denis Show – The Latest Wedding Dress Trends That Are Breaking Tradition",
+   "paragraph":"Paloma Blanca Style 4955 Mikaella Style 2352"
+ },
+
+ {
+   "url":"./image/television/tv4.jpg",
+   "title":"Beauty and the Beast 3×1 'Beast of Wallstreet'",
+   "paragraph":"June 11, 2015",
+   "paragraph2":"Paloma Blanca Style 4506"
+ },
+
+ {
+   "url":"./image/television/tv5.jpg",
+   "title":"The Flash 1×23 'Fast Enough'",
+   "paragraph":"May 19, 2015",
+   "paragraph2":"Mikaella Style 1406"
+   
+ },
+
+ {
+   "url":"./image/television/tv6.jpg",
+   "title":"Beauty and the Beast 2×19 'Cold Case'",
+   "paragraph":"June 19, 2014",
+   "paragraph2":"Paloma Blanca Style 4464"
+ }
+
+]

@@ -1,0 +1,26 @@
+.press_hover{
+    display: none;
+}
+/* .press_ho{
+    display: flex;
+    align-items: center;
+} */
+ .press_ho:hover .press_hover{
+   
+    display: inline;
+} 
+
+.press_ho:hover::before{
+    content: "";
+    top: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to top,rgba(18, 18, 18, 0.77) 0%,rgba(18, 18, 18, 0.77) 35%,rgba(18, 18, 18, 0.77) 60%,rgba(18, 18, 18, 0.77) 100%);
+    border-radius: 3px;
+    opacity: 1;
+}
+.video_padding{
+    
+    background-color: #b2b2b2;
+}

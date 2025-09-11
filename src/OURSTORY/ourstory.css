@@ -1,0 +1,18 @@
+.our{
+    background-color: #fcf8f5;
+    padding: 6rem 0;
+}
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    margin-right: 18px;
+    background-color: #0d0c0c;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.carousel-indicators {
+    bottom: -60px;
+}
+.ourpassion{
+    background-color: #FCF8F5;
+}

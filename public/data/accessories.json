@@ -1,0 +1,25 @@
+[
+  {
+    "url": "./image/accessories/StyleV496M.jpg",
+    "hover": "./image/accessories/StyleV443F.jpg",
+    "name": "Style #V496M"
+  },
+
+  {
+    "url": "./image/accessories/styleV491F.jpg",
+    "name": "Style #V491F",
+    "hover": "./image/accessories/StyleV496M.jpg"
+  },
+
+  {
+    "url": "./image/accessories/StyleV457F.jpg",
+    "hover": "./image/accessories/styleV491F.jpg",
+    "name": "Style #V457F"
+  },
+
+  {
+    "url": "./image/accessories/StyleV443F.jpg",
+    "hover": "./image/accessories/StyleV457F.jpg",
+    "name": "Style #V443F"
+  }
+]

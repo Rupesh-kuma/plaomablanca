@@ -1,0 +1,16 @@
+.newsletter_image{
+    background: url("../assets/Home page/Footer/footer-banner.jpg") no-repeat;
+    width: 100%;
+    height: 480px;
+    background-position: top center;
+    background-size: cover;
+}
+.newsletter_image{
+    
+    background-color: #0A0A0A;
+    opacity: 0.64;
+     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.search_width{
+    width: 550px;
+}
