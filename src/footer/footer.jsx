@@ -54,7 +54,7 @@ const Footer=()=>{
   <div className="col-8">
     {/* <div className="card"> */}
       <div className="text-center">
-        <p className="card-text">Legal | Blue Bird Dress of Toronto Corp. © 2007-2024 | All Rights Reserved</p>
+        <p className="card-text">Legal | Blue Bird Dress of Toronto Corp. © 2025 |All Rights Reserved | Designed By Infozen Solution</p>
       </div>
     {/* </div> */}
   </div>
